@@ -6,11 +6,11 @@
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>                __                              __      
-   ____ _____ _/ /____ _      ______ ___  __   / /_____ 
-  / __ `/ __ `/ __/ _ \\ | /| / / __ `/ / / /  / __/ __ \\
- / /_/ / /_/ / /_/  __/ |/ |/ / /_/ / /_/ /  / /_/ /_/ /
- \\__, /\\__,_/\\__/\\___/|__/|__/\\__,_/\\__, /   \\__/\\____/ 
-/____/                             /____/                       </pre> </div>
+<div class="custom-text-header"> <pre>              _                           
+   __ _  __ _| |_ _____      ____ _ _   _ 
+  / _` |/ _` | __/ _ \\ \\ /\\ / / _` | | | |
+ | (_| | (_| | ||  __/\\ V  V / (_| | |_| |
+  \\__, |\\__,_|\\__\\___| \\_/\\_/ \\__,_|\\__, |
+  |___/                             |___/ </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
